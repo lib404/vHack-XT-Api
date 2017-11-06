@@ -16,10 +16,10 @@ Once you download, just run the file and login and begin your quest to become th
 	* Spyware
 - Remomoves spyware when it detected on your account.
 - Attack the with botnet
-- Attack people amd advoid the FBI
+- Attack people andadvoid the FBI
 - Help you get first place in the tournament
 - Attacks modes
-      -Patator 
-      - Secure
+      * Patator 
+      * Secure
 - Detects if you are close to the rate limit, if you are close to the rate limit it will pause for 5 minutes.
 - Auto update Botnet
