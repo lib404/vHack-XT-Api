@@ -8,11 +8,12 @@ Once you download, just run the file and login and begin your quest to become th
 * Update the following: 
 	* Account 
 	* Firewall 
-	* IPSP 
+	* ISP
 	* CPU
 	* Ram
 	* Spam
 	* Botnet
+	* Spyware
 - Remomoves spyware when it detected on your account.
 - Attack the with botnet
 - Attack people amd advoid the FBI
